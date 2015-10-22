@@ -39,7 +39,7 @@
 #
 # :host: "www.example.com"
 #
-:host: ""
+:host: "crm.itsup.co.uk"
 
 
 # Base URL
@@ -52,7 +52,7 @@
 # http://www.domain.com/crm   => :base_url: "/crm"   # (without trailing slash)
 # http://www.domain.com/a/crm => :base_url: "/a/crm" # (without trailing slash)
 #
-:base_url: ""
+:base_url: "http://crm.itsup.co.uk"
 
 
 # Locale
